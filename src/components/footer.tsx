@@ -7,8 +7,8 @@ export default function Footer() {
           © <script>
             document.write(new Date().getFullYear()) 
           </script>
-          &nbsp;Astro Ecommerce by
-          <a href="https://www.creative-tim.com" className="text-secondary ms-1" target="_blank">Creative Tim</a>.
+          &nbsp;Super Ecommerce site by Sammai with <i className="fa fa-heart text-danger"></i>&nbsp; 
+          <a href="https://samuelyyf.netlify.app" className="text-secondary ms-1" target="_blank">Creative Minds</a>.
         </div>
       </footer>
     </>
